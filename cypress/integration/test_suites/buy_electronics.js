@@ -2,7 +2,7 @@
 
 import ProductElectronicsPage from '../../support/page_Object/productElectronics_page'
 
-const dbData = require('../../fixtures/dbshop.js')
+const dbData = require('../../fixtures/dbElectronics.js')
 
 describe('Buy Electronics', function() {
 
