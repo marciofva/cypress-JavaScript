@@ -1,0 +1,17 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "$(npm bin)/cypress run",
+    "cypress:open": "$(npm bin)/cypress open",
+    "headTest": "npm run e2e -- --headed",
+    "chromeTest": "npm run e2e -- --browser chrome"
+  },
+  "author": "Marcio Almeida",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  }
+}
