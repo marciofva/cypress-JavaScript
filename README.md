@@ -10,7 +10,7 @@ E2E testing project with Cypress (JavaScript)
 npm run cypress:open
 ```
 
-- Electron mode:
+- Electron browser:
 ```
 npm run e2e
 ```
