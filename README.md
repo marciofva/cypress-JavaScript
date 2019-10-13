@@ -5,22 +5,22 @@ E2E testing project with Cypress (JavaScript)
 
 ### Running the tests
 
-All tests:
+- All tests:
 ```
 npm run e2e
 ```
 
-Open cypress:
+- Open cypress:
 ```
 npm run cypress:open
 ```
 
-Headless mode:
+- Headless mode:
 ```
 npm run headTest
 ```
 
-Chrome browser:
+- Chrome browser:
 ```
 npm run chromeTest
 ```
