@@ -5,14 +5,14 @@ E2E testing project with Cypress (JavaScript)
 
 ### Running the tests
 
-- All tests:
-```
-npm run e2e
-```
-
 - Open cypress:
 ```
 npm run cypress:open
+```
+
+- Electron mode:
+```
+npm run e2e
 ```
 
 - Headless mode:
